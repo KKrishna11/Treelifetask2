@@ -1,0 +1,661 @@
+.panel-13 .logo {
+  margin: 6px 0;
+  width: 116px;
+  height: 33px;
+}
+.panel-13 .about {
+  margin-right: 10.5px;
+  width: 46px;
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .services {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .gift-city {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .dealstreet {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .resources {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .careers {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-68 {
+  margin: 12px 40.1px 12px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 590px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.panel-13 .book-ameeting {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-1 {
+  border-radius: 7px;
+  background: #FCD17A;
+  display: flex;
+  padding: 12px 12.5px 12px 12px;
+  box-sizing: border-box;
+}
+.panel-13 .frame-39 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+}
+.panel-13 .container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1105.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.panel-13 .new {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 400;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.panel-13 .frame-162 {
+  border-radius: 2px;
+  background: #28AFA6;
+  position: absolute;
+  left: 623px;
+  top: 25px;
+  display: flex;
+  padding: 0 3px 0 2px;
+  box-sizing: border-box;
+}
+.panel-13 .frame-2 {
+  /* box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.18); */
+  background: #FFFFFF;
+  margin-bottom: 66px;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+  padding: 28px 13.5px 28px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.panel-13 .secretarial-compliance {
+  margin: 0 839.1px 54px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 700;
+  font-size: 25.6px;
+  letter-spacing: -0.5px;
+  color: #414042;
+}
+.panel-13 .setup {
+  margin: 0 26.5px 22px 0;
+  display: inline-block;
+  width: 112px;
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 41px;
+  letter-spacing: -0.8px;
+  color: #414042;
+}
+.panel-13 .eiplus-3 {
+  margin-top: 7px;
+  width: 68px;
+  height: 68px;
+}
+.panel-13 .component-1 {
+  margin: 30px 30px 21px 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1131px;
+  box-sizing: border-box;
+}
+.panel-13 .vector-13 {
+  background: rgba(0, 0, 0, 0.25);
+  margin: 0 0 33px 1px;
+  width: 1119px;
+  height: 0px;
+}
+.panel-13 .transaction-support {
+  margin-right: 53px;
+  width: 221px;
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 41px;
+  letter-spacing: -0.8px;
+  color: #414042;
+}
+.panel-13 .entity-incorporation {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-1382 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  display: flex;
+  padding: 4px 4.9px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .business-licenses {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-1372 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  display: flex;
+  padding: 4px 5.3px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .contracts-legal-framework {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-1411 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  display: flex;
+  padding: 4px 5.2px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .container-6 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 10px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.panel-13 .intellectual-property-registration {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-1392 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  margin-right: 8px;
+  display: flex;
+  padding: 4px 5.2px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .employee-documentation {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-1402 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  margin-right: 15px;
+  display: flex;
+  padding: 4px 5.3px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .co-founder-documentation {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-142 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  display: flex;
+  padding: 4px 4.5px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .container-11 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.panel-13 .group-66 {
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.panel-13 .eiplus {
+  margin-bottom: 6px;
+  width: 68px;
+  height: 68px;
+}
+.panel-13 .container-5 {
+  margin: 12px 0 20px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.panel-13 .container-7 {
+  margin: 90 100 20px 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1131px;
+  box-sizing: border-box;
+}
+.panel-13 .vector-14 {
+  background: rgba(0, 0, 0, 0.25);
+  margin: 0 0 54px 1px;
+  width: 1119px;
+  height: 0px;
+}
+.panel-13 .scale-up {
+  margin: 6px 26.5px 15px 0;
+  display: inline-block;
+  width: 288px;
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 41px;
+  letter-spacing: -0.8px;
+  color: #414042;
+}
+.panel-13 .includes-everything-included-in-setup {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-138 {
+  border-radius: 6px;
+  background: #D0F5F3;
+  margin-bottom: 16px;
+  display: flex;
+  align-self: flex-start;
+  padding: 4px 5.7px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .investor-reporting {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-139 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  margin-right: 19px;
+  display: flex;
+  padding: 4px 5.1px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .tax-compliance {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-140 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  margin-right: 15px;
+  display: flex;
+  padding: 4px 5.2px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .accounting-mis {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-137 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  display: flex;
+  padding: 4px 4.8px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .container-1 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.panel-13 .group-65 {
+  border-radius: 6px;
+  margin-right: 12px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  margin-right: 100px;
+}
+.panel-13 .myspace{
+  background-color: #FFFFFF;
+  margin-left: 20px;
+
+}
+.panel-13 .payroll {
+  overflow-wrap: break-word;
+
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-141 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  margin-top: 45px;
+  display: flex;
+  padding: 4px 5.1px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .container-12 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.panel-13 .eiplus-1 {
+  margin-bottom: 6px;
+  width: 68px;
+  height: 68px;
+  margin-left:10px ;
+}
+.panel-13 .container-2 {
+  margin: 0 0 48px 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1131px;
+  box-sizing: border-box;
+}
+.panel-13 .vector-15 {
+  background: rgba(0, 0, 0, 0.25);
+  margin: 0 0 40px 1px;
+  width: 1119px;
+  height: 0px;
+}
+.panel-13 .transaction-support-1 {
+  margin-right: 53px;
+  width: 288px;
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 41px;
+  letter-spacing: -0.8px;
+  color: #414042;
+}
+.panel-13 .includes-everything-included-in-setup-1 {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-1381 {
+  border-radius: 6px;
+  background: #D0F5F3;
+  margin-bottom: 16px;
+  display: flex;
+  align-self: flex-start;
+  padding: 4px 5.7px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .investor-reporting-1 {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-1391 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  margin-right: 19px;
+  display: flex;
+  padding: 4px 5.1px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .tax-compliance-1 {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-1401 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  margin-right: 15px;
+  display: flex;
+  padding: 4px 5.2px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .accounting-mis-1 {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-1371 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  display: flex;
+  padding: 4px 4.8px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .container-9 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+  margin-right: 106px;
+}
+.panel-13 .group-68 {
+  border-radius: 6px;
+  margin-right: 12px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.panel-13 .payroll-1 {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-163 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  margin-top: 45px;
+  display: flex;
+  padding: 4px 5.1px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .container-10 {
+  margin: 9px 0 23px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.panel-13 .eiplus-2 {
+  margin: 8px 0 30px 0;
+  width: 68px;
+  height: 68px;
+}
+.panel-13 .container-8 {
+  margin-left: 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1131px;
+  box-sizing: border-box;
+}
+.panel-13 .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.panel-13 .entity-incorporation-1 {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-1383 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  display: flex;
+  padding: 4px 4.9px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .business-licenses-1 {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-1373 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  display: flex;
+  padding: 4px 5.3px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .contracts-legal-framework-1 {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-1412 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  display: flex;
+  padding: 4px 5.2px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .container-13 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.panel-13 .intellectual-property-registration-1 {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-1393 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  margin-right: 8px;
+  display: flex;
+  padding: 4px 5.2px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .employee-documentation-1 {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.panel-13 .frame-1403 {
+  border-radius: 6px;
+  background: #E8E8E8;
+  display: flex;
+  padding: 4px 5.3px 4px 4px;
+  box-sizing: border-box;
+}
+.panel-13 .container-3 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.panel-13 .group-67 {
+  border-radius: 6px;
+  position: absolute;
+  top: 251px;
+  right: 442px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.panel-13 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 1px 0 65px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
